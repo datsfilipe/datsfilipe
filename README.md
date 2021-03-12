@@ -1,7 +1,7 @@
 # - 👋 Hi, I’m @datsfilipe
 
 
-That nickname is good? my bad if its no, i tried lol. My name's Filipe Lima, im from Porto Franco - Ma. I like play games, more specifically board games like chess or TFT. Besides that i pretend to be a web developer, i like HTML, CSS and programming in Javascript, but im learning now about php, laravel framework, docker and another nice one things.
+That nickname is good? my bad if its no, i tried lol. My name's Filipe Lima, im from Porto Franco - Ma. I pretend to be a professional web developer, learn about web technologies and pratice to improve skills. I study about Javascript, Node, docker, database, frameworks and another nice one things.
 
 # - 👀 I’m interested in ...
 
