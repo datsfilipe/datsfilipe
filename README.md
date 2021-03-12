@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m @datsfilipe
+# - 👋🏻 Hi, I’m @datsfilipe
 
 
 That nickname is good? my bad if its no, i tried lol. My name's Filipe Lima, im from Porto Franco - Ma. I pretend to be a professional web developer, learn about web technologies and pratice to improve skills. Im student at IFMA, doing an integrated computer technician course.
