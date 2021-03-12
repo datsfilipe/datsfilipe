@@ -16,9 +16,9 @@ Web technologies, php, frameworks, database, docker, javascript and others on fr
 # - 📫 How to reach me ...
 
 
-Email adress: datsfilipe@gmail.com
-Telegram nickname: datsfilipe
-Phone number: (+55) 99 98113-4521
+Email adress: datsfilipe@gmail.com  
+Telegram nickname: datsfilipe 
+Phone number: (+55) 99 98113-4521 
 
 <!---
 About.me
