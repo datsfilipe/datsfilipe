@@ -6,7 +6,7 @@ That nickname is good? my bad if its no, i tried lol. My name's Filipe Lima, im 
 #  👀 I’m interested in ...
 
 
-Web development, games, music, thechnology, chat and jokes.
+Web development, thechnology, Node, backend technologies, frameworks, linux, programming, python, php, chat and jokes.
 
 #  🌱 I’m currently learning ...
 
