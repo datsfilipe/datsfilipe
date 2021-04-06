@@ -21,7 +21,8 @@ Telegram: https://t.me/datisfilipe
 Phone number: (+55) 99 98213-0667
 
 <img src="href=https://raw.githubusercontent.com/datsfilipe/socialSvgIcons/master/instagram-light.svg" />
-<img src= "https://img.shields.io/badge/ -datsfilipe -#645FCE ?style=flat-square&logo=appveyor ?labelColor=#645FCE" />
+<img src="https://img.shields.io/badge/?message=<datisfilipe>?&color=<%23645FCE&>" />
+&color=<COLOR>
 <!---
 About.me
 --->
