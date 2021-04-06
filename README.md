@@ -22,7 +22,7 @@ Phone number: (+55) 99 98213-0667
 
 [<img src="https://img.shields.io/badge/-datisfilipe-%23645FCE -style=flat-square" />](https://t.me/datisfilipe)
 
-
+.. image:: https://img.shields.io/twitter/url?style=social   :alt: Twitter URL
 <!---
 About.me
 --->
