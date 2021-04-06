@@ -19,8 +19,10 @@ Web technologies, php, frameworks, database, docker, javascript and others on fr
 Email adress: datsfilipe@gmail.com  
 Telegram: https://t.me/datisfilipe
 Phone number: (+55) 99 98213-0667
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/datisfilipe)
-[<img src="https://raw.githubusercontent.com/datsfilipe/socialSvgIcons/master/telegram-light.svg?token=ASIWE563HGQHPXVWGFNTPM3ANS3ZC - ?style=flat-datisfilipe" />](https://t.me/datisfilipe)
+
+[<img src="https://img.shields.io/badge/-datisfilipe-%23645FCE" />]?url=<https://raw.githubusercontent.com/datsfilipe/socialSvgIcons/master/telegram-light.svg?token=ASIWE563HGQHPXVWGFNTPM3ANS3ZC>&style<flat>(https://t.me/datisfilipe)
+
+
 <!---
 About.me
 --->
