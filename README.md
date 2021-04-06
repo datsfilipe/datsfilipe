@@ -17,7 +17,7 @@ Web technologies, php, frameworks, database, docker, javascript and others on fr
 
 
 Email adress: datsfilipe@gmail.com  
-Telegram nickname: datisfilipe   
+Telegram: https://t.me/datisfilipe
 Phone number: (+55) 99 98213-0667
 
 <!---
