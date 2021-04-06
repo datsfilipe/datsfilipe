@@ -20,9 +20,7 @@ Email adress: datsfilipe@gmail.com
 Telegram: https://t.me/datisfilipe
 Phone number: (+55) 99 98213-0667
 
-<img src="href=https://raw.githubusercontent.com/datsfilipe/socialSvgIcons/master/instagram-light.svg" />
-<img src="https://img.shields.io/static/?message=<datisfilipe>&color=<%23645FCE&>" />
-&color=<COLOR>
+[<img src="https://img.shields.io/static/v1?label=&message=datisfilipe&color=%23645FCE&&style=flat-square&logo=instagram&logoColor=white" />]
 <!---
 About.me
 --->
