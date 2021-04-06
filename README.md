@@ -1,6 +1,6 @@
 #  Filipe Lima
 
-### How to reach me ...
+### How to reach me
 
 Phone number: (+55) 99 98213-0667
 
@@ -10,7 +10,9 @@ Phone number: (+55) 99 98213-0667
 [<img src="https://img.shields.io/static/v1?label=&message=Filipe%20Lima&color=%23645FCE&&style=flat-square&logo=linkedin&logoColor=white" />](linkedin.com/in/datsfilipe)
 [<img src="https://img.shields.io/static/v1?label=&message=datsfilipe&color=%23645FCE&&style=flat-square&logo=instagram&logoColor=white" />](https://www.instagram.com/datsfilipe/)
 
-My name's Filipe Lima, im from Porto Franco - Ma. I pretend to be a professional web developer, learn about web technologies and pratice to improve skills. Im student at IFMA, doing an integrated computer technician course.
+### About me
+
+Proactive student of the informatic technical course at IFMA and self-taught in the studies of web and mobile development technologies. I'm now working on improve my skills in front-end and back-end development.
 <!---
 About.me
 --->
