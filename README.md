@@ -5,7 +5,7 @@ About.me
 
 ### About me
 
-Proactive student of the informatic technical course at IFMA and self-taught in the studies of web and mobile development technologies. I'm now working on improve my skills in front-end and back-end development.
+Proactive student of the informatic technical course at IFMA and self-taught in the studies of web development technologies. I'm now working on improve my skills in front-end and back-end development.
 <!---
 Contact
 --->
