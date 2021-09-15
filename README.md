@@ -3,9 +3,9 @@
 About.me
 --->
 
-### About me
+A beginner developer focused on web technologies.
 
-Proactive student of the informatic technical course at IFMA and self-taught in the studies of web development technologies. I'm now working on improve my skills in front-end and back-end development.
+hard work overcomes the natural gift.
 <!---
 Contact
 --->
