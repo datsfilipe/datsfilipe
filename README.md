@@ -5,7 +5,7 @@ About.me
 
 A beginner developer focused on web technologies.
 
-hard work overcomes the natural gift.
+Hard work overcomes the natural gift.
 <!---
 Contact
 --->
