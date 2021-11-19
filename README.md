@@ -3,9 +3,11 @@
 About.me
 --->
 
-A beginner developer focused on web technologies.
+A developer focused on web technologies.
 
-Hard work overcomes the natural gift.
+IT technician by IFMA.
+
+*Hard work overcomes the natural gift.*
 <!---
 Contact
 --->
