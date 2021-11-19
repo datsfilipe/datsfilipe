@@ -3,7 +3,7 @@
 About.me
 --->
 
-A developer focused on web technologies.
+A developer focused on front-end web technologies.
 
 IT technician by IFMA.
 
