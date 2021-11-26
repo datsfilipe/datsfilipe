@@ -8,14 +8,6 @@ A developer focused on front-end web technologies.
 IT technician by IFMA.
 
 *Hard work overcomes the natural gift.*
-<!--
-Github Stats 
--->
-
-### Github Stats
-
-![](https://raw.githubusercontent.com/datsfilipe/github-stats-transparent/output/generated/languages.svg)_![](https://raw.githubusercontent.com/datsfilipe/github-stats-transparent/output/generated/overview.svg)
-
 <!---
 Contact
 --->
