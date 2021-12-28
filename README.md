@@ -13,8 +13,6 @@
 
 - I'm also looking to collaborate more with open source
 
-<br>
-
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1f2335?style=flat-square&logo=javascript)&nbsp;
@@ -32,8 +30,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-1f2335?style=flat-square&logo=firebase)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1f2335?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-1f2335?style=flat-square&logo=sqlite)&nbsp;
-
-<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
