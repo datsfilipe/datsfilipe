@@ -9,8 +9,6 @@
 - All of my projects are available at [portfolio]()
 -->
 
-- Ask me about **HTML, CSS, Javascript, Styled Components, React.js, Next.js**
-
 - I'm also looking to collaborate more with open source
 
 ## 🛠 &nbsp;Tech Stack
