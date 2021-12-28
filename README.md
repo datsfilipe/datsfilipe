@@ -34,8 +34,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=datsfilipe&show_icons=true&border_color=414868&border_radius=0&theme=tokyonight" alt="datsfilipe's stats"/>&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datsfilipe&layout=compact&border_color=414868&border_radius=0&theme=tokyonight" alt="datsfilipe's most languages"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=datsfilipe&show_icons=true&border_color=414868&border_radius=0&theme=tokyonight" alt="datsfilipe's stats"/>&nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datsfilipe&layout=compact&border_color=414868&border_radius=0&theme=tokyonight" alt="datsfilipe's most languages"/>
 </div>
 
 <br>
