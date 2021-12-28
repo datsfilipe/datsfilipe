@@ -13,15 +13,18 @@
 
 - ⚡ I'm also looking to collaborate more with open source
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0a0047?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-0a0047?style=flat&logo=typescript)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next-0a0047?style=flat&logo=next.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-0a0047?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0a0047?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0a0047?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-0a0047?style=flat&logo=SASS)&nbsp;
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-0a0047?style=flat&logo=styledcomponents)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0a0047?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0a0047?style=flat&logo=github)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0a0047?style=flat&logo=node.js)&nbsp;
@@ -30,7 +33,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0a0047?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-0a0047?style=flat&logo=sqlite)&nbsp;
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -40,9 +43,9 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datsfilipe&layout=compact&theme=tokyonight" alt="datsfilipe's most languages"/>
 </p>
 
-<br><br>
+<br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 📱 &nbsp;Social Links
 
 <p align="left">
 <a href="https://twitter.com/datisfilipe" target="_blank">
@@ -58,19 +61,3 @@
  <img align="center" src="https://img.shields.io/badge/-dtsf-0a0047?style=flat&logo=spotify" alt="youtube"/>
 </a>
 </p>
-
-
-<!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
