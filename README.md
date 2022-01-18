@@ -47,9 +47,6 @@
 <a href="https://linkedin.com/in/datsfilipe" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-datsfilipe-1f2335?style=for-the-badge&logo=linkedin" alt="linkedin"/>
 </a>&nbsp;
-<a href="https://instagram.com/datsfilipe" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-datsfilipe-1f2335?style=for-the-badge&logo=instagram" alt="instagram"/>
-</a>&nbsp;
 <a href="https://open.spotify.com/user/4calisip8iasfq9v3gavlqxkp" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-dtsf-1f2335?style=for-the-badge&logo=spotify" alt="youtube"/>
 </a>
