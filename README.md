@@ -3,7 +3,7 @@
 
 - An junior Web Developer focused on front-end technologies 
 
-- I’m currently looking for work
+- I’m at my first job as a front-end developer
 
 <!-- portfolio link
 - All of my projects are available at [portfolio]()
