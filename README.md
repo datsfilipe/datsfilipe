@@ -1,15 +1,15 @@
 <!-- about me -->
 <h1 align="left">Hi, I'm Filipe Lima</h1>
 
-- An junior Web Developer focused on front-end technologies 
+- I'm a Front-end Web Developer 🎨
 
-- I’m at my first job as a front-end developer
+- I’m at my first job as a developer, gaining experience
 
 <!-- portfolio link
-- All of my projects are available at [portfolio]()
+- All of my projects are available at my [portfolio]()
 -->
 
-- I'm also looking to collaborate more with open source
+- I'm studying back-end stuff for web development
 
 ## 🛠 &nbsp;Tech Stack
 
