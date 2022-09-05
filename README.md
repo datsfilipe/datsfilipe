@@ -3,13 +3,13 @@
 
 - I'm a Front-end Web Developer 🎨
 
-- I’m at my first job as a developer, gaining experience
+- I’m at my first job as a developer, gaining experience 👨🏼‍🏭
 
 <!-- portfolio link
 - All of my projects are available at my [portfolio]()
 -->
 
-- I'm studying back-end stuff for web development
+- I'm studying back-end stuff for web development 🧑🏻‍💻
 
 ## 🛠 &nbsp;Tech Stack
 
