@@ -1,7 +1,7 @@
 <!-- about me -->
 <h1 align="left">Hi, I'm Filipe Lima</h1>
 
-- I'm a Front-end Web Developer 🎨
+- I'm a front-end web developer 🎨
 
 - I’m at my first job as a developer, gaining experience 👨🏼‍🏭
 
