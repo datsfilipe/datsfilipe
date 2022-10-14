@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Filipe Lima</h1>
 <p align="left"><img src="https://www.codewars.com/users/datsfilipe/badges/small" alt="Codewars Kata" /></p>
 
-- 🔭 I’m currently working on [**@octaldev**](https://casadosdados.com.br/solucao/cnpj/octaldev-solucoes-e-tecnologia-ltda-40237988000121)
+- 🔭 I’m currently working at [**@octaldev**](https://casadosdados.com.br/solucao/cnpj/octaldev-solucoes-e-tecnologia-ltda-40237988000121)
 - 🌱 I’m currently learning **ReactJS, React Native, NextJs, Typescript**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, ReactJS, Typescript, NextJs**
