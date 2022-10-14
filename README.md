@@ -1,65 +1,35 @@
-<!-- about me -->
-<h1 align="left">Hi, I'm Filipe Lima</h1>
+<img align="right" height="350em" src="./assets/Web Developer_Flatline.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Filipe Lima</h1>
+<p align="left"><img src="https://www.codewars.com/users/datsfilipe/badges/small" alt="Codewars Kata" /></p>
 
-- I'm a front-end web developer 🎨
+- 🔭 I’m currently working on [**@octaldev**](https://casadosdados.com.br/solucao/cnpj/octaldev-solucoes-e-tecnologia-ltda-40237988000121)
+- 🌱 I’m currently learning **ReactJS, React Native, NextJs, Typescript**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, ReactJS, Typescript, NextJs**
+- ⚡ Fun fact **I use neovim as my code editor**
 
-- I’m at my first job as a developer, gaining experience 👨🏼‍🏭
+## 👥 &nbsp;Connect with me
 
-<!-- portfolio link
-- All of my projects are available at my [portfolio]()
--->
+<a target="_blank" href="https://www.linkedin.com/in/datsfilipe"/><img src="https://img.shields.io/badge/-Linkedin-003756?style=flat-square&logo=linkedin&logoColor=0077b5" alt="Linkedin" /></a>
+<a target="_blank" href="https://www.instagram.com/datsfilipe"/><img src="https://img.shields.io/badge/-Instagram-003756?style=flat-square&logo=instagram" alt="Instagram" /></a>
+<a target="_blank" href="https://www.twitter.com/datsfilipe"/><img src="https://img.shields.io/badge/-Twitter-003756?style=flat-square&logo=twitter" alt="Twitter" /></a>
+<a target="_blank" href="https://datsfilipe.dev"/><img src="https://img.shields.io/badge/-datsfilipe.dev-003756?style=flat-square&logo=circle" alt="datsfilipe website" /></a>
 
-- I'm studying back-end stuff for web development 🧑🏻‍💻
+## 📈 &nbsp;My Github Stats
 
-## 🛠 &nbsp;Tech Stack
+<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=datsfilipe&show_icons=true&border_color=262626&border_radius=0&theme=tokyonight" alt="datsfilipe's stats"/></p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-161616?style=flat-square&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-161616?style=flat-square&logo=typescript)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next-161616?style=flat-square&logo=next.js)&nbsp;
-![React](https://img.shields.io/badge/-React-161616?style=flat-square&logo=react)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-161616?style=flat-square&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-161616?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-161616?style=flat-square&logo=SASS)&nbsp;
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-161616?style=flat-square&logo=styledcomponents)&nbsp;
-![Git](https://img.shields.io/badge/-Git-161616?style=flat-square&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-161616?style=flat-square&logo=github)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-161616?style=flat-square&logo=node.js)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-161616?style=flat-square&logo=markdown)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-161616?style=flat-square&logo=firebase)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-161616?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-161616?style=flat-square&logo=sqlite)&nbsp;
+## 🛠 &nbsp;My Tech Stack
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=datsfilipe&show_icons=true&border_color=262626&border_radius=4&title_color=ff7eb6&text_color=33b1ff&icon_color=0f62fe&&bg_color=161616" alt="datsfilipe's stats"/>&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datsfilipe&layout=compact&show_icons=true&border_color=262626&border_radius=4&title_color=ff7eb6&text_color=33b1ff&icon_color=0f62fe&&bg_color=161616" alt="datsfilipe's most languages"/>
-</div>
-
-<br>
-
-## 👥 &nbsp;Social Links
-
-<div>
-<a href="https://twitter.com/datisfilipe" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-datisfilipe-161616?style=for-the-badge&logo=twitter" alt="twitter"/>  
-</a>&nbsp;
-<a href="https://linkedin.com/in/datsfilipe" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-datsfilipe-161616?style=for-the-badge&logo=linkedin" alt="linkedin"/>
-</a>&nbsp;
-<a href="https://dev.to/datsfilipe" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-datsfilipe-161616?style=for-the-badge&logo=dev.to" alt="dev to"/>
-</a>&nbsp;
-<a href="https://www.reddit.com/user/datsfilipe" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-datsfilipe-161616?style=for-the-badge&logo=reddit" alt="reddit"/>
-</a>&nbsp;
-<a href="https://open.spotify.com/user/4calisip8iasfq9v3gavlqxkp" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-dtsf-161616?style=for-the-badge&logo=spotify" alt="youtube"/>
-</a>
-</div>
-
-<br>
-
-## 🐍 &nbsp;Snake Animation
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+![JavaScript](https://img.shields.io/badge/-JavaScript-003756?style=flat-square&logo=javascript)&nbsp;
+![NextJs](https://img.shields.io/badge/-Next.js-003756?style=flat-square&logo=next.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-003756?style=flat-square&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-003756?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-003756?style=flat-square&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-003756?style=flat-square&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-003756?style=flat-square&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-003756?style=flat-square&logo=markdown)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-003756?style=flat-square&logo=typescript)&nbsp;
+![Neovim](https://img.shields.io/badge/-Neovim-003756?style=flat-square&logo=neovim)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-003756?style=flat-square&logo=sqlite)&nbsp;
+![Tmux](https://img.shields.io/badge/-Tmux-003756?style=flat-square&logo=tmux&logoColor=5ebc64)&nbsp;
