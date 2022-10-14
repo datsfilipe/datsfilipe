@@ -16,10 +16,6 @@
 <a target="_blank" href="mailto:datsfilipe.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-003756?style=flat-square&logo=gmail" alt="Gmail" /></a>
 <!--<a target="_blank" href="https://datsfilipe.dev"><img src="https://img.shields.io/badge/-datsfilipe.dev-003756?style=flat-square&logo=circle" alt="datsfilipe website" /></a>-->
 
-## 📈 &nbsp;My Github Stats
-
-<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=datsfilipe&show_icons=true&border_color=262626&border_radius=0&theme=tokyonight" alt="datsfilipe's stats"/></p>
-
 ## 🛠 &nbsp;My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-003756?style=flat-square&logo=javascript)&nbsp;
@@ -34,3 +30,7 @@
 ![Neovim](https://img.shields.io/badge/-Neovim-003756?style=flat-square&logo=neovim)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-003756?style=flat-square&logo=sqlite)&nbsp;
 ![Tmux](https://img.shields.io/badge/-Tmux-003756?style=flat-square&logo=tmux&logoColor=5ebc64)&nbsp;
+
+## 📈 &nbsp;My Github Stats
+
+<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=datsfilipe&show_icons=true&border_color=262626&border_radius=0&theme=tokyonight" alt="datsfilipe's stats"/></p>
