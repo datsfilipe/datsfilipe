@@ -1,20 +1,12 @@
-<img align="right" height="350em" src="./assets/Web Developer_Flatline.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Filipe Lima</h1>
 <a href="https://wakatime.com/@14a51411-4661-4f6f-80ac-9c0c00416f17"><img src="https://wakatime.com/badge/user/14a51411-4661-4f6f-80ac-9c0c00416f17.svg" alt="Total time coded since Mar 10 2022" /></a>
+<img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=datsfilipe&show_icons=true&border_color=262626&border_radius=0&theme=tokyonight" alt="datsfilipe's stats"/>
 
 - 🔭 I’m currently working at [**@octaldev**](https://casadosdados.com.br/solucao/cnpj/octaldev-solucoes-e-tecnologia-ltda-40237988000121)
 - 🌱 I’m currently learning **ReactJS, React Native, NextJs, Typescript**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, ReactJS, Typescript, NextJs**
 - ⚡ Fun fact **I use neovim as my code editor**
-
-## 👥 &nbsp;Connect with me
-
-<a target="_blank" href="https://www.linkedin.com/in/datsfilipe"><img src="https://img.shields.io/badge/-Linkedin-003756?style=flat-square&logo=linkedin&logoColor=0077b5" alt="Linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/datsfilipe"><img src="https://img.shields.io/badge/-Instagram-003756?style=flat-square&logo=instagram" alt="Instagram" /></a>
-<a target="_blank" href="https://www.twitter.com/datsfilipe1"><img src="https://img.shields.io/badge/-Twitter-003756?style=flat-square&logo=twitter" alt="Twitter" /></a>
-<a target="_blank" href="mailto:datsfilipe.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-003756?style=flat-square&logo=gmail" alt="Gmail" /></a>
-<!--<a target="_blank" href="https://datsfilipe.dev"><img src="https://img.shields.io/badge/-datsfilipe.dev-003756?style=flat-square&logo=circle" alt="datsfilipe website" /></a>-->
 
 ## 🛠 &nbsp;My Tech Stack
 
@@ -31,6 +23,10 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003756?style=flat-square&logo=sqlite)&nbsp;
 ![Tmux](https://img.shields.io/badge/-Tmux-003756?style=flat-square&logo=tmux&logoColor=5ebc64)&nbsp;
 
-## 📈 &nbsp;My Github Stats
+## 👥 &nbsp;Connect with me
 
-<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=datsfilipe&show_icons=true&border_color=262626&border_radius=0&theme=tokyonight" alt="datsfilipe's stats"/></p>
+<a target="_blank" href="https://www.linkedin.com/in/datsfilipe"><img src="https://img.shields.io/badge/-Linkedin-003756?style=flat-square&logo=linkedin&logoColor=0077b5" alt="Linkedin" /></a>
+<a target="_blank" href="https://www.instagram.com/datsfilipe"><img src="https://img.shields.io/badge/-Instagram-003756?style=flat-square&logo=instagram" alt="Instagram" /></a>
+<a target="_blank" href="https://www.twitter.com/datsfilipe1"><img src="https://img.shields.io/badge/-Twitter-003756?style=flat-square&logo=twitter" alt="Twitter" /></a>
+<a target="_blank" href="mailto:datsfilipe.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-003756?style=flat-square&logo=gmail" alt="Gmail" /></a>
+<!--<a target="_blank" href="https://datsfilipe.dev"><img src="https://img.shields.io/badge/-datsfilipe.dev-003756?style=flat-square&logo=circle" alt="datsfilipe website" /></a>-->
