@@ -1,6 +1,6 @@
 <img align="right" height="350em" src="./assets/Web Developer_Flatline.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Filipe Lima</h1>
-<p align="left"><img src="https://www.codewars.com/users/datsfilipe/badges/small" alt="Codewars Kata" /></p>
+<a href="https://wakatime.com/@14a51411-4661-4f6f-80ac-9c0c00416f17"><img src="https://wakatime.com/badge/user/14a51411-4661-4f6f-80ac-9c0c00416f17.svg" alt="Total time coded since Mar 10 2022" /></a>
 
 - 🔭 I’m currently working at [**@octaldev**](https://casadosdados.com.br/solucao/cnpj/octaldev-solucoes-e-tecnologia-ltda-40237988000121)
 - 🌱 I’m currently learning **ReactJS, React Native, NextJs, Typescript**
