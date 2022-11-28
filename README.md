@@ -25,8 +25,8 @@
 
 ## 👥 &nbsp;Connect with me
 
+<a target="_blank" href="https://datsfilipe.dev"><img src="https://img.shields.io/badge/-datsfilipe.dev-003756?style=flat-square" alt="datsfilipe website" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/datsfilipe"><img src="https://img.shields.io/badge/-Linkedin-003756?style=flat-square&logo=linkedin&logoColor=0077b5" alt="Linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/datsfilipe"><img src="https://img.shields.io/badge/-Instagram-003756?style=flat-square&logo=instagram" alt="Instagram" /></a>
 <a target="_blank" href="https://www.twitter.com/datsfilipe1"><img src="https://img.shields.io/badge/-Twitter-003756?style=flat-square&logo=twitter" alt="Twitter" /></a>
 <a target="_blank" href="mailto:datsfilipe.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-003756?style=flat-square&logo=gmail" alt="Gmail" /></a>
-<!--<a target="_blank" href="https://datsfilipe.dev"><img src="https://img.shields.io/badge/-datsfilipe.dev-003756?style=flat-square&logo=circle" alt="datsfilipe website" /></a>-->
