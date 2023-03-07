@@ -2,7 +2,7 @@
 <a href="https://wakatime.com/@14a51411-4661-4f6f-80ac-9c0c00416f17"><img src="https://wakatime.com/badge/user/14a51411-4661-4f6f-80ac-9c0c00416f17.svg" alt="Total time coded since Mar 10 2022" /></a>
 <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=datsfilipe&show_icons=true&border_color=262626&border_radius=0&theme=tokyonight" alt="datsfilipe's stats"/>
 
-- 🔭 I’m currently working looking for job!
+- 🔭 I’m currently looking for job!
 - 🌱 I’m learning **ReactJS, React Native, Node.js, NextJs, Typescript**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, ReactJS, Typescript, NextJs**
