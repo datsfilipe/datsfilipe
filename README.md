@@ -8,7 +8,7 @@
 - 💬 Ask me about **JavaScript, ReactJS, Typescript, NextJs**
 - ⚡ Fun fact **I use neovim as my code editor**
 
-## 🛠 &nbsp;My Tech Stack
+## 🛠 &nbsp;My Tech Stack / Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-003756?style=flat-square&logo=javascript)&nbsp;
 ![NextJs](https://img.shields.io/badge/-Next.js-003756?style=flat-square&logo=next.js)&nbsp;
