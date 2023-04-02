@@ -27,6 +27,6 @@
 
 <a target="_blank" href="https://datsfilipe.dev"><img src="https://img.shields.io/badge/-datsfilipe.dev-070707?style=flat-square&logo=next.js&logoColor=fafafa" alt="datsfilipe website" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/datsfilipe"><img src="https://img.shields.io/badge/-Linkedin-070707?style=flat-square&logo=linkedin&logoColor=0077b5" alt="Linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/datsfilipe"><img src="https://img.shields.io/badge/-Instagram-070707?style=flat-square&logo=instagram" alt="Instagram" /></a>
+<a target="_blank" href="https://www.reddit.com/user/datsfilipe"><img src="https://img.shields.io/badge/-Reddit-070707?style=flat-square&logo=reddit" alt="Reddit" /></a>
 <a target="_blank" href="https://www.twitter.com/datsfilipe1"><img src="https://img.shields.io/badge/-Twitter-070707?style=flat-square&logo=twitter" alt="Twitter" /></a>
-<a target="_blank" href="mailto:datsfilipe.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-070707?style=flat-square&logo=gmail" alt="Gmail" /></a>
+<a target="_blank" href="mailto:datsfilipe.pro@proton.me"><img src="https://img.shields.io/badge/-Email-070707?style=flat-square&logo=mail.ru" alt="Protonmail" /></a>
