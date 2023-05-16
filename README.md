@@ -9,7 +9,7 @@
 - :pencil2: I write about **web development** and other things on <a href="https://datsfilipe.dev/blog" target="_blank">my blog</a>
 - :books: I'm currently learning **Rust, React Native and NodeJS**
 
-#### What I Use :computer:
+### What I Use :computer:
 
 | Technology Group | Technologies |
 | :---: | :---: |
