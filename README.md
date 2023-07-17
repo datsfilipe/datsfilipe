@@ -22,10 +22,9 @@
 | Documentation | ![Markdown](https://img.shields.io/badge/-Markdown-22272e?logo=markdown) ![Mdx](https://img.shields.io/badge/-Mdx-22272e?logo=mdx) |
 | Deployment | ![Vercel](https://img.shields.io/badge/-Vercel-22272e?logo=vercel) |
 | Editors | ![Neovim](https://img.shields.io/badge/-NeoVim-22272e?logo=neovim) ![VSCode](https://img.shields.io/badge/-VSCode-22272e?logo=visual-studio-code&logoColor=007ACC) |
-| Other | ![Firebase](https://img.shields.io/badge/-Firebase-22272e?logo=firebase) ![Redux](https://img.shields.io/badge/-Redux-22272e?logo=redux&logoColor=ba8fff) ![GitHub](https://img.shields.io/badge/-GitHub-22272e?logo=github) ![Gitlab](https://img.shields.io/badge/-Gitlab-22272e?logo=gitlab) ![Linux](https://img.shields.io/badge/-Linux-22272e?logo=linux)
+| Other | ![Docker](https://img.shields.io/badge/-Docker-22272e?logo=docker) ![Firebase](https://img.shields.io/badge/-Firebase-22272e?logo=firebase) ![Redux](https://img.shields.io/badge/-Redux-22272e?logo=redux&logoColor=ba8fff) ![GitHub](https://img.shields.io/badge/-GitHub-22272e?logo=github) ![Gitlab](https://img.shields.io/badge/-Gitlab-22272e?logo=gitlab) ![Linux](https://img.shields.io/badge/-Linux-22272e?logo=linux)
 <!-- ![Vue](https://img.shields.io/badge/-Vue-22272e?logo=vue.js)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-22272e?logo=react)&nbsp;
 ![Expo](https://img.shields.io/badge/-Expo-22272e?logo=expo)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-22272e?logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-22272e?logo=express)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-22272e?logo=docker)&nbsp; -->
