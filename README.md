@@ -7,7 +7,7 @@
 - :mailbox_with_mail: Reach me at <a href="mailto:contato@datsfilipe.dev" target="_blank">contato@datsfilipe.dev  or see my <a href="https://datsfilipe.dev/link3" target="_blank">other links</a>
 - :briefcase: I have experience working with **JavaScript, ReactJS, Typescript, and NextJs** applications
 - :pencil2: I write about **web development** and other things on <a href="https://datsfilipe.dev/blog" target="_blank">my blog</a>
-- :books: I'm currently learning **Rust, React Native and NodeJS**
+- :books: I'm currently learning **Rust and Backend with NodeJS**
 
 ### What I Use :computer:
 
