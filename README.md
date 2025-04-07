@@ -1,7 +1,7 @@
 #### hi, I'm Filipe Lima
 ![datsfilipe](https://komarev.com/ghpvc/?username=datsfilipe&color=22272e)
 
-- Reach me at <a href="mailto:datsfilipe.foss@proton.me" target="_blank">datsfilipe.foss@proton.me</a> or see my <a href="https://datsfilipe.dev" target="_blank">website</a> for more links!
+- Reach me at <a href="mailto:contact@datsfilipe.xyz" target="_blank">contact@datsfilipe.xyz</a> or see my <a href="https://datsfilipe.dev" target="_blank">website</a> for more links!
 - I have experience working with **Node.js, TypeScript, NestJs, React.js, Next.js, PostgreSQL, Docker** and much more!
 - I write about **programming, linux** and other things on <a href="https://datsfilipe.dev/blog" target="_blank">my blog</a>.
 - My dotfiles can be found here: <a href="https://github.com/datsfilipe/dotfiles">datsfilipe/dotfiles</a>.
