@@ -2,7 +2,7 @@
 
 # Filipe Lima 
 
-23yo full-stack engineer focused on modern web apps and dev tools. Experienced in JS/TS ecosystems, open-source configs and efficient setups.
+24yo full-stack engineer focused on modern web apps and dev tools. Experienced in JS/TS ecosystems, open-source configs and efficient setups.
 
 - Reach me at <a href="mailto:contact@datsfilipe.xyz" target="_blank">contact@datsfilipe.xyz</a>
 - Visit my <a href="https://datsfilipe.xyz" target="_blank">site</a> for more info & links
